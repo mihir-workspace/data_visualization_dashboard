@@ -18,4 +18,4 @@ Following lib of python are use :
 
 Choose the **company** from the dropdown and select trading session (*daily, weekly, monthly*)  and click ***Apply***	:dart:
 
-![Dashborad](https://github.com/mihir-workspace/stock-analyzer/blob/main/dashobord.png)
+![Dashborad](https://github.com/mihir-workspace/data_visualization_dashboard/blob/main/Stock_analyzer/dashobord.png)
